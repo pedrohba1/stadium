@@ -9,8 +9,10 @@ import (
 )
 
 const (
-	Name   = "morpheusvm"
-	Symbol = "RED"
+	Name   = "Stadium"
+	Symbol = "STI"
+
+	// Action TypeIDs
 )
 
 var ID ids.ID

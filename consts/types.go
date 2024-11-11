@@ -5,5 +5,6 @@ package consts
 
 const (
 	// Action TypeIDs
+	HiID       uint8 = 1//Add this line
 	TransferID uint8 = 0
 )
